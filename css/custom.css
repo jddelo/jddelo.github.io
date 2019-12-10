@@ -5,4 +5,63 @@
 .jumbotron{
     margin-bottom: 0;
     background-color: #757170;
+    padding: .25rem;
+}
+.bg-light{
+    background-color: #2e75b5;
+}
+.navbar-expand-lg .navbar-collapse{
+    background-color: #2e75b5;
+}
+.navbar{
+    background-color: #2e75b5;
+}
+.nav-item nav-link{
+    color: #ffffff;
+}
+a{
+    color: #ffffff;
+}
+
+#spanmenu{
+    color: #ffffff;
+}
+body{
+    background-color: #203864;
+}
+.navbar-toggler .line{
+    color:#ffffff;
+}
+.display-4{
+    color:#bfbfbf;
+}
+.img-fluid{
+    max-width: 15%;
+    height: auto;
+    margin: 3%;
+}
+.text-center{
+    color: #ffffff;
+    font-family:"script", "cursive", "calibri";
+    size: 16pt;
+    padding-left:10%;
+    padding-right:10%;
+}
+.aboutme{
+    padding-left:10%;
+    padding-right:10%;
+}
+.mapthumb{
+    max-width: 95%;
+    vertical-align: middle;
+    height: auto;
+}
+.portfolio{
+    padding-top:3%;
+}
+.col-sm-4{
+    vertical-align:middle;
+    text-align:center;
+    color: #ffffff;
+    font-family:"script", "cursive", "calibri";
 }
