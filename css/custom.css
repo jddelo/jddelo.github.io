@@ -42,7 +42,7 @@ body{
 }
 .text-center{
     color: #ffffff;
-    font-family:"script", "cursive", "calibri";
+    font-family:"palatino","bookman";
     size: 16pt;
     padding-left:10%;
     padding-right:10%;
@@ -63,7 +63,7 @@ body{
     vertical-align:middle;
     text-align:center;
     color: #ffffff;
-    font-family:"script", "cursive", "calibri";
+    font-family:"palatino","bookman";
 }
 .mapview{
     margin-left:1%;
@@ -77,10 +77,32 @@ body{
 }
 .contact{
     color: #ffffff;
-    font-family:"fantasy", "palatino","bookman";
+    font-family:"palatino","bookman";
 }
 .wordcloud{
     max-width: 35%;
     height: auto;
     margin: 3%;
+    padding-bottom:2%;
+}
+.resumelist{
+    color: #ffffff;
+    font-family:"palatino","bookman";
+    list-style-position:outside;
+    margin-left:5%;
+}
+.resumeheader{
+    color: #ffffff;
+    font-family:"palatino","bookman";
+    text-align-last: center;
+    font-weight: bold;
+}
+.resumeh5{
+    color: #c2c2c2;
+    font-family:"palatino","bookman";
+    font-style: italic;
+    font-weight: bold;
+}
+.school{
+    list-style-type: none;
 }
