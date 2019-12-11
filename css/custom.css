@@ -80,7 +80,7 @@ body{
     font-family:"fantasy", "palatino","bookman";
 }
 .wordcloud{
-    max-width: 45%;
+    max-width: 35%;
     height: auto;
     margin: 3%;
 }
