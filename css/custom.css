@@ -75,3 +75,12 @@ body{
     margin-left:auto;
     margin-right:auto;    
 }
+.contact{
+    color: #ffffff;
+    font-family:"fantasy", "palatino","bookman";
+}
+.wordcloud{
+    max-width: 45%;
+    height: auto;
+    margin: 3%;
+}
