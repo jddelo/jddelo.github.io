@@ -90,6 +90,7 @@ body{
     font-family:"palatino","bookman";
     list-style-position:outside;
     margin-left:5%;
+    line-height:120%;
 }
 .resumeheader{
     color: #ffffff;
@@ -102,7 +103,9 @@ body{
     font-family:"palatino","bookman";
     font-style: italic;
     font-weight: bold;
+    line-height:120%;
 }
 .school{
     list-style-type: none;
+    text-align:center;
 }
