@@ -99,7 +99,6 @@ body{
 .resumeheader{
     color: #ffffff;
     font-family:"palatino","bookman";
-    text-align-last: center;
     font-weight: bold;
 }
 .resumeh5{
@@ -111,5 +110,4 @@ body{
 }
 .school{
     list-style-type: none;
-    text-align:center;
 }
