@@ -10,6 +10,10 @@
 .bg-light{
     background-color: #2e75b5;
 }
+.bknd_image{
+    background-image: url(".assets/background_portfolio.JPG");
+    background-size: cover;
+}
 .navbar-expand-lg .navbar-collapse{
     background-color: #2e75b5;
 }
