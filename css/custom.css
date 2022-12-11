@@ -10,10 +10,6 @@
 .bg-light{
     background-color: #2e75b5;
 }
-.bknd_image{
-    background-image: url(".assets/background_portfolio.JPG");
-    background-size: cover;
-}
 .navbar-expand-lg .navbar-collapse{
     background-color: #2e75b5;
 }
@@ -25,13 +21,18 @@
 }
 a{
     color: #ffffff;
+    
 }
-
+a:hover{
+    color: lightgray;
+}
 #spanmenu{
     color: #ffffff;
 }
 body{
-    background-color: #203864;
+    /* background-color: #203864; */
+    background-image: radial-gradient(#2e75b5 18%, #293744 100%);
+    overflow-x: hidden;
 }
 .navbar-toggler .line{
     color:#ffffff;
@@ -53,12 +54,13 @@ body{
     size: 16pt;
     padding-left:10%;
     padding-right:10%;
+    text-shadow: 1px 1px 3px black;    
+
 }
 .aboutme{
     padding-left:10%;
     padding-right:10%;
 }
-
 .mapthumb{
     max-width: 95%;
     vertical-align: middle;
