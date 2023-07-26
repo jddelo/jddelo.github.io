@@ -15,6 +15,8 @@
 }
 .navbar{
     background-color: #2e75b5;
+    /* background-image: url("/assets/portfolio_background.jpg");
+    background-size: cover; */
 }
 .nav-item nav-link{
     color: #ffffff;
